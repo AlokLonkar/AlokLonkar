@@ -9,7 +9,7 @@
 <p align="center">
   🌱 Currently learning advanced backend & system design<br/>
   💡 Interested in Web Development, Cloud & Open Source<br/>
-  📫 Reach me at: <b>your-email@example.com</b>
+  📫 Reach me at: <b>aloklonkar954@gmail.com</b>
 </p>
 
 <h3 align="center">Connect with me</h3>
